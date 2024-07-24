@@ -3,7 +3,7 @@ let startRow=0;
 
 function createTable() {
     //Write your code here
-	let rn = Number(prompt("nput number of rows"));
+	let rn = Number(prompt("Input number of rows"));
 	let cn = Number(prompt("Input number of columns"));
 	let i=0;
 	for(i=startRow;i<rn+startRow;i++){
